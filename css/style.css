@@ -25,23 +25,6 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-.rb {
-    border-bottom: none !important;
-}
-
-.m {
-    margin-bottom: 2rem;
-}
-
-.mt {
-    margin-top: 2rem;
-}
-
-.p {
-    border-top: .0625rem solid rgb(170, 163, 163);
-    border-bottom: .0625rem solid rgb(170, 163, 163);
-    padding: 1rem 0;
-}
 
 
 
