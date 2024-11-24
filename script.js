@@ -14,8 +14,8 @@ function myFunction() {
             annualPayment[i].style.display = 'none';
             button.style.justifyContent = 'flex-end';
          } else {
-            monthPayment[i].style.display = 'block';
-            annualPayment[i].style.display = 'none';
+            monthPayment[i].style.display = 'none';
+            annualPayment[i].style.display = 'block';
             button.style.justifyContent = 'flex-start';
          }
         }
